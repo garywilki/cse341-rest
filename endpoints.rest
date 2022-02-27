@@ -1,0 +1,4 @@
+# For the Week 8 Prove assignment.  The 'professional' route will
+# return an object containing professional information per the specs
+# found in the frontend javascript file
+GET http://localhost:8080/professional
